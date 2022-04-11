@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+textarea {
+    width: 50vw;
+    height: 40vh;
+}
